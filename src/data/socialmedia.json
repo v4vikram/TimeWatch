@@ -1,0 +1,24 @@
+{
+    "socials":[
+        {
+            "name": "@timewatchindiainfocom",
+            "icon": "icons/instagram.png",
+            "link": "https://www.instagram.com/timewatchindiainfocom/"
+        },
+        {
+            "name": "+91-9599953923",
+            "icon": "icons/whatsapp.png",
+            "link": "https://wa.me/919599953923?text=Hello%F0%9F%91%8B%F0%9F%8F%BB%20TimeWatch%2C%0AI%27m%20Interested%20in%20your%20product%20or%20services%0APlease%20Assist%20me%21%20%20"
+        },
+        {
+            "name": "@TimeWatchindia1",
+            "icon": "icons/facebook.png",
+            "link": "https://www.facebook.com/TimeWatchindia1"
+        },
+        {
+            "name": "@timewatch-india",
+            "icon": "icons/linkedin.png",
+            "link": "https://www.linkedin.com/company/timewatch-india/"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "insights": [
+   
+      {
+        "categoryName": "Newsflash",
+        "link": "/newsflash"
+      },
+      {
+        "categoryName": "Testimonials",
+        "link": "/testimonials"
+      },
+      {
+        "categoryName": "Certifications",
+        "link": "/certifications"
+      }
+    ]
+  }
+  
